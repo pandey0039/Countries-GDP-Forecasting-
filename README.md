@@ -1,4 +1,4 @@
-# Countries-GDP-Forecasting-
+# Countries-GDP-Prediction-
 **Data Source**
 
 We have 'Countries of The World' data set (from kaggle: Fernando Lasso: https://www.kaggle.com/fernandol/countries-of-the-world).
